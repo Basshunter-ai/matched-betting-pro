@@ -1,3 +1,4 @@
+import './index.css'
 import React, { useState, useEffect } from 'react';
 import { Calculator, TrendingUp, Wallet, Plus, Edit3, Trash2, Check, X, Bell, Clock, ExternalLink, RefreshCw } from 'lucide-react';
 
